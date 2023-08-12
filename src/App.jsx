@@ -1,5 +1,11 @@
+import GlobleStyles from "./styles/GlobleStyles";
+
 function App() {
-  return;
+  return (
+    <>
+      <GlobleStyles />
+    </>
+  );
 }
 
 export default App;
